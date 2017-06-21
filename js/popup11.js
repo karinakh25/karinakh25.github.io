@@ -1,4 +1,3 @@
-
 $(document).mousemove(function(event){
 var mx=event.pageX+10;
 var my=event.pageY+20;
